@@ -8,3 +8,4 @@ creating high-resolution textures, and minimizing the computational power and ti
 structure edges. We address the optimization challenge using the augmented Lagrangian second-order method and the alternating direction method of multipliers. Numerical tests demonstrate that our
 method repairs images more efficiently, preserve greater detail, and outperforms several recent techniques in peak signal-to-noise ratio and structural similarity.
 
+https://github.com/1Px-Vision/Inpainting/issues/1#issue-2251780071
